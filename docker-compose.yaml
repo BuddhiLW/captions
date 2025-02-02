@@ -1,0 +1,18 @@
+services:
+  whisper-server:
+    image: ghcr.io/mutablelogic/go-whisper:latest
+    container_name: whisper-server
+    runtime: nvidia
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+    volumes:
+      - whisper:/data
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+
+volumes:
+  whisper:
