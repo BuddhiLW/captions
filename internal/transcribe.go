@@ -6,7 +6,7 @@ import (
 	"github.com/rwxrob/conf"
 	"github.com/rwxrob/help"
 	"github.com/rwxrob/vars"
-	"gopkg.in/yaml.v3"
+	// "gopkg.in/yaml.v3"
 )
 
 // var Data abs.YamlMap
@@ -35,7 +35,7 @@ func init() {
 
 // Captions Map of Dependencies
 var Cmd = &Z.Cmd{
-	Name:      `dc`,
+	Name:      `captions`,
 	Summary:   `A Bonzai composite command tree, to facilitate transcribing media (audio and videos) to multiple languages`,
 	Version:   `v0.0.1`,
 	Copyright: `Copyright 2025 Pedro G. Branquinho`,

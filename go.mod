@@ -3,11 +3,10 @@ module github.com/BuddhiLW/captions
 go 1.23.5
 
 require (
-	github.com/rwxrob/bonzai v0.19.1
+	github.com/rwxrob/bonzai v0.20.10
 	github.com/rwxrob/conf v0.8.2
 	github.com/rwxrob/help v0.7.2
 	github.com/rwxrob/vars v0.6.4
-	gopkg.in/yaml.v3 v3.0.1
 )
 
 require (
@@ -40,4 +39,5 @@ require (
 	golang.org/x/text v0.4.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	gopkg.in/op/go-logging.v1 v1.0.0-20160211212156-b2cb9fa56473 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )

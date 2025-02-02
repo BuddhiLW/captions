@@ -46,8 +46,8 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/rogpeppe/go-internal v1.9.0 h1:73kH8U+JUqXU8lRuOHeVHaa/SZPifC7BkcraZVejAe8=
 github.com/rogpeppe/go-internal v1.9.0/go.mod h1:WtVeX8xhTBvf0smdhujwtBcq4Qrzq/fJaraNFVN+nFs=
-github.com/rwxrob/bonzai v0.19.1 h1:RCdDxW56e7pEmzPXqgHizCi7mQN8ea0lWUvEndoQHEE=
-github.com/rwxrob/bonzai v0.19.1/go.mod h1:zfWl+2FmPjhfkzkjr7RPqbkHXohEBvOYD3nc4c34ShU=
+github.com/rwxrob/bonzai v0.20.10 h1:MC77uTOENkQA2Zt/r98teSgP/bHuGw04s5k1ECAKgq0=
+github.com/rwxrob/bonzai v0.20.10/go.mod h1:QmLf6NXoVtTf3pY7eYR4+k9daz2bdRiiq5ArFckAW3E=
 github.com/rwxrob/compcmd v0.3.0 h1:AlJNItb7+Yk17qmH5E7TJFyBXhna/rS3NeQAgjqbFls=
 github.com/rwxrob/compcmd v0.3.0/go.mod h1:XOHl6bS2Uen6Wx2mxtbtUhT8Sbz1IhnaE55xPkhTBD4=
 github.com/rwxrob/compfile v0.1.12 h1:n3JrOa8lOXY1emdZ2C8FrN+VsJfttIQZz71AehTuhfo=
